@@ -26,11 +26,11 @@ This code and projects are based on tutorial from: [Microservices using SpringBo
 - Spring Cloud Config Server
 - [Remote Repository with the Config File](https://github.com/devwdougherty/config-server-dailycodebuffer-workshop)
 
-##### UserService
+#### UserService
 - Eureka Registred
 - RestTemplate (LoadBalanced)
 
-##### DepartmentService
+#### DepartmentService
 - Eureka Registred
 
 #### HystrixDashboard
