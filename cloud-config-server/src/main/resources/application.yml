@@ -9,4 +9,5 @@ spring:
       server:
         git:
           uri: https://github.com/devwdougherty/config-server-dailycodebuffer-workshop
+          default-label: main
           clone-on-start: true
