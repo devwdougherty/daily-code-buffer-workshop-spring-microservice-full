@@ -41,5 +41,5 @@ This code and projects are based on a tutorial from [Microservices using SpringB
 
 # Solution Architecture Diagram
 
-[microservices-with-eureka-api-gateway](microservices-with-eureka-api-gateway.png)
+![microservices-with-eureka-api-gateway](microservices-with-eureka-api-gateway.png)
 
