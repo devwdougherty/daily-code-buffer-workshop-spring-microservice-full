@@ -10,10 +10,12 @@ This code and projects are based on tutorial from: [Microservices using SpringBo
 - Lombok (code reduction)
 - H2 Database
 
-### Microservices
+### Server
 
 #### ServiceRegistry
 - Eureka Server
+
+### Microservices
 
 #### API Gateway
 - Eureka Client
