@@ -39,3 +39,7 @@ This code and projects are based on a tutorial from [Microservices using SpringB
 - Eureka Client
 - Hystrix Dashboard
 
+# Solution Architecture Diagram
+
+[microservices-with-eureka-api-gateway](microservices-with-eureka-api-gateway.png)
+
