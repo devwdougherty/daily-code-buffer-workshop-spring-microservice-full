@@ -1,6 +1,6 @@
 # WORKSHOP DailyCodeBuffer - SpringBoot Microservices with Eureka and API Gateway
 
-This code and projects are based on tutorial from: [Microservices using SpringBoot | Full Example](https://youtu.be/BnknNTN8icw)
+This code and projects are based on a tutorial from [Microservices using SpringBoot | Full Example](https://youtu.be/BnknNTN8icw)
 
 # Project Structure
 
@@ -21,7 +21,7 @@ This code and projects are based on tutorial from: [Microservices using SpringBo
 - Eureka Client
 - Hystrix
 - Spring Cloud Gateway
-- CircuitBraker (fallback endpoints and stream endpoint for Hystrix)
+- CircuitBreaker (fallback endpoints and stream endpoint for Hystrix)
 
 #### Spring Cloud Config
 - Eureka Client
