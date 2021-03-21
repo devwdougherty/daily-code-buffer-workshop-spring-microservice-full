@@ -1,4 +1,4 @@
-# WORKSHOP DailyCodeBuffer - SpringBoot Microservices with Eureka and API Gateway
+# SpringBoot Microservices with Eureka and API Gateway - Worshop DailyCodeBuffer
 
 This code and projects are based on a tutorial from [Microservices using SpringBoot | Full Example](https://youtu.be/BnknNTN8icw)
 
